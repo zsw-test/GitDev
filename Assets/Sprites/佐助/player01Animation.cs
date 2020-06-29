@@ -25,13 +25,29 @@ public class player01Animation : MonoBehaviour
     {
         animator.SetBool("Death", true);
     }
-    public void attck1()
+    public void attack2()
     {
-        animator.SetBool("Atk1",true);
+        animator.SetBool("Atk2-2", true);
     }
-    public void attck1down()
+    public void attack3()
     {
-        animator.SetBool("Atk1", false);
+        animator.SetBool("Atk2-3", true);
+    }
+    public void attack1()
+    {
+        animator.SetBool("Atk2-1",true);
+    }
+    public void attack1down()
+    {
+        animator.SetBool("Atk2-1", false);
+    }
+    public void attack2down()
+    {
+        animator.SetBool("Atk2-2", false);
+    }
+    public void attack3down()
+    {
+        animator.SetBool("Atk2-3", false);
     }
     public void Skill1()
     {
@@ -71,4 +87,6 @@ public class player01Animation : MonoBehaviour
         animator.SetBool("Run", false);
         animator.SetBool("Defence", false);
     }
+
+    
 }

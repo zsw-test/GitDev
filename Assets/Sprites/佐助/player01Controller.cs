@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 enum State{
@@ -14,12 +15,17 @@ enum State{
 
 public class player01Controller : MonoBehaviour
 {
-    public int moveSpeed = 10;
+    public int moveSpeed = 3;
+    
+    public float continueTime = 2f;
+    public int clickNum = 0;
+    private float lastClickedTime = 0;
     private player01Animation player01Animation;
     private Rigidbody2D m_Rigidbody2D;
     private bool move = false;
     private bool defence = false;
     private bool moveable = true;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -47,6 +53,7 @@ public class player01Controller : MonoBehaviour
             //角色的移动
             if (Input.GetKey(KeyCode.D))
             {
+                
                 transform.Translate(Vector3.right * moveSpeed * Time.deltaTime);
                 transform.localScale = new Vector2(1f, 1f);
                 move = true;
@@ -83,30 +90,69 @@ public class player01Controller : MonoBehaviour
         if (Input.GetKey(KeyCode.S))
         {
             defence = true;
-            moveSpeed = 2;
+            moveSpeed = 1;
         }
         else
         {
-            moveSpeed = 5;
+            moveSpeed = 3;
             defence = false;
         }
-        if (Input.GetKeyDown(KeyCode.K))
+        if (Input.GetKey(KeyCode.K))
         {
-            moveable = false;
-            player01Animation.attck1();
+            
+            player01Animation.attack1();
+            lastClickedTime = Time.time;
+            clickNum++;
+            Debug.Log(clickNum);
+        }
+        if (Time.time - lastClickedTime > continueTime)
+        {
+            clickNum = 0;
         }
 
+        //if (Input.GetMouseButtonDown(0))
+        //{
+        //    lastClickedTime = Time.time;
+        //    clickNum++;
+        //    if (clickNum == 1)
+        //    {
+        //        GetComponent<Animator>().SetBool("AtkCombo", true);
+        //    }
+
+        //    clickNum = Mathf.Clamp(clickNum, 0, 3);
+        //}
+
     }
+
     public void SkillDown()
     {
         moveable = true;
         player01Animation.Skill1down();
     }
 
-    public void AtkDown()
+    public void Atk1Down()
     {
-        moveable = true;
-        player01Animation.attck1down();
+        player01Animation.attack1down();
     }
+    public void ComboCheck1()
+    {
+        if (clickNum > 1)
+        {
+            clickNum = 0;
+            player01Animation.attack2();
+        }
+    }
+    public void ComboCheck2()
+    {
+        if(clickNum>2) player01Animation.attack3();
 
+    }
+    public void ComboCheck(int num)
+    {
+        if (clickNum >= num)
+        {
+
+            GetComponent<Animator>().SetBool("AtkCombo", true);
+        }
+    }
 }
