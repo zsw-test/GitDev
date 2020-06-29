@@ -20,7 +20,11 @@ public class player01Animation : MonoBehaviour
     }
     public void attck1()
     {
-        animator.SetTrigger("Atk1");
+        animator.SetBool("Atk1",true);
+    }
+    public void attck1down()
+    {
+        animator.SetBool("Atk1", false);
     }
     public void Skill1()
     {

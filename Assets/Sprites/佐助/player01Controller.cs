@@ -72,13 +72,16 @@ public class player01Controller : MonoBehaviour
         if (Input.GetKey(KeyCode.S))
         {
             defence = true;
+            moveSpeed = 2;
         }
         else
         {
+            moveSpeed = 5;
             defence = false;
         }
         if(Input.GetKeyDown(KeyCode.K))
         {
+            moveable = false;
             player01Animation.attck1();
         }
 
@@ -88,5 +91,10 @@ public class player01Controller : MonoBehaviour
         moveable = true ;
     }
 
+    public void AtkDown()
+    {
+        moveable = true;
+        player01Animation.attck1down();
+    }
     
 }
