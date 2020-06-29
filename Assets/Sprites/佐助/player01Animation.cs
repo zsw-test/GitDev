@@ -12,11 +12,18 @@ public class player01Animation : MonoBehaviour
         animator = GetComponent<Animator>();
 
     }
-
+    public void beaten()
+    {
+        animator.SetBool("Beaten", true);
+    }
     // Update is called once per frame
     void Update()
     {
         
+    }
+    public void Death()
+    {
+        animator.SetBool("Death", true);
     }
     public void attck1()
     {
@@ -28,7 +35,11 @@ public class player01Animation : MonoBehaviour
     }
     public void Skill1()
     {
-        animator.SetTrigger("Skill1");
+        animator.SetBool("Skill1",true);
+    }
+    public void Skill1down()
+    {
+        animator.SetBool("Skill1", false);
     }
     public void Run(bool move)
     {

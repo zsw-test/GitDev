@@ -1,6 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+enum State{
+    atk1,
+    beaten,
+    death,
+    defence,
+    idle,
+    run,
+    skill1
+}
+
 
 public class player01Controller : MonoBehaviour
 {
@@ -20,7 +30,7 @@ public class player01Controller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     private void FixedUpdate()
@@ -28,11 +38,11 @@ public class player01Controller : MonoBehaviour
         Move();
         ChangeStatus();
     }
-    
+
     void Move()
     {
-      
-        if(moveable)//如果可以移动
+
+        if (moveable)//如果可以移动
         {
             //角色的移动
             if (Input.GetKey(KeyCode.D))
@@ -53,15 +63,16 @@ public class player01Controller : MonoBehaviour
                 move = false;
             }
         }
-        
-        
-        
+       
+
+
+
     }
     //控制状态机的变化
     void ChangeStatus()
     {
-            player01Animation.Run(move);
-            player01Animation.Defence(defence);
+        player01Animation.Run(move);
+        player01Animation.Defence(defence);
         if (Input.GetKeyDown(KeyCode.J))
         {
             moveable = false;
@@ -79,16 +90,17 @@ public class player01Controller : MonoBehaviour
             moveSpeed = 5;
             defence = false;
         }
-        if(Input.GetKeyDown(KeyCode.K))
+        if (Input.GetKeyDown(KeyCode.K))
         {
             moveable = false;
             player01Animation.attck1();
         }
 
     }
-    public  void SkillDown()
+    public void SkillDown()
     {
-        moveable = true ;
+        moveable = true;
+        player01Animation.Skill1down();
     }
 
     public void AtkDown()
@@ -96,5 +108,5 @@ public class player01Controller : MonoBehaviour
         moveable = true;
         player01Animation.attck1down();
     }
-    
+
 }
