@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 5dd67e441470f8c4abace72af40bd8d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2274440544699266728
+    second: "\u9E23\u4EBAskill1_0"
+  - first:
+      213: 5261745827706946014
+    second: "\u9E23\u4EBAskill1_1"
+  - first:
+      213: -1099521819851189886
+    second: "\u9E23\u4EBAskill1_2"
+  - first:
+      213: -7963059486717883784
+    second: "\u9E23\u4EBAskill1_3"
+  - first:
+      213: -7005768835919568053
+    second: "\u9E23\u4EBAskill1_4"
+  - first:
+      213: 6028166788028617848
+    second: "\u9E23\u4EBAskill1_5"
+  - first:
+      213: -5411506025222631797
+    second: "\u9E23\u4EBAskill1_6"
+  - first:
+      213: 1034306515792215778
+    second: "\u9E23\u4EBAskill1_7"
+  - first:
+      213: 3063166204137850759
+    second: "\u9E23\u4EBAskill1_8"
+  - first:
+      213: -4130045443369367407
+    second: "\u9E23\u4EBAskill1_9"
+  - first:
+      213: 6971841770523706502
+    second: "\u9E23\u4EBAskill1_10"
+  - first:
+      213: 6525435110689976935
+    second: "\u9E23\u4EBAskill1_11"
+  - first:
+      213: -2710313772445573642
+    second: "\u9E23\u4EBAskill1_12"
+  - first:
+      213: -3546964318884239955
+    second: "\u9E23\u4EBAskill1_13"
+  - first:
+      213: 7089528748976106350
+    second: "\u9E23\u4EBAskill1_14"
+  - first:
+      213: -8213343598075370523
+    second: "\u9E23\u4EBAskill1_15"
+  - first:
+      213: 774948507802141194
+    second: "\u9E23\u4EBAskill1_16"
+  - first:
+      213: -446491779624994688
+    second: "\u9E23\u4EBAskill1_17"
+  - first:
+      213: 4339948225551761423
+    second: "\u9E23\u4EBAskill1_18"
+  - first:
+      213: 8364478294733838950
+    second: "\u9E23\u4EBAskill1_19"
+  - first:
+      213: -5045734387161028916
+    second: "\u9E23\u4EBAskill1_20"
+  - first:
+      213: 5865591974155413108
+    second: "\u9E23\u4EBAskill1_21"
+  - first:
+      213: -5011276121636513325
+    second: "\u9E23\u4EBAskill1_22"
+  - first:
+      213: 2145965239858172266
+    second: "\u9E23\u4EBAskill1_23"
+  - first:
+      213: -6345407516027897195
+    second: "\u9E23\u4EBAskill1_24"
+  - first:
+      213: -7652055703493364211
+    second: "\u9E23\u4EBAskill1_25"
+  - first:
+      213: 9115630842435453871
+    second: "\u9E23\u4EBAskill1_26"
+  - first:
+      213: -4326661699045265585
+    second: "\u9E23\u4EBAskill1_27"
+  - first:
+      213: 287558631527135204
+    second: "\u9E23\u4EBAskill1_28"
+  - first:
+      213: -4055216984684114918
+    second: "\u9E23\u4EBAskill1_29"
+  - first:
+      213: 1389430743782460530
+    second: "\u9E23\u4EBAskill1_30"
+  - first:
+      213: 1328747197612646652
+    second: "\u9E23\u4EBAskill1_31"
+  - first:
+      213: -1683195291457674878
+    second: "\u9E23\u4EBAskill1_32"
+  - first:
+      213: 2532068780926573358
+    second: "\u9E23\u4EBAskill1_33"
+  - first:
+      213: -5271045529906906416
+    second: "\u9E23\u4EBAskill1_34"
+  - first:
+      213: -1997667246546661147
+    second: "\u9E23\u4EBAskill1_35"
+  - first:
+      213: 900960807068274686
+    second: "\u9E23\u4EBAskill1_36"
+  - first:
+      213: 4942732001546069797
+    second: "\u9E23\u4EBAskill1_37"
+  - first:
+      213: 4460529696767142672
+    second: "\u9E23\u4EBAskill1_38"
+  - first:
+      213: 7314498006810186899
+    second: "\u9E23\u4EBAskill1_39"
+  - first:
+      213: -6137679098864610118
+    second: "\u9E23\u4EBAskill1_40"
+  - first:
+      213: -550343290121355821
+    second: "\u9E23\u4EBAskill1_41"
+  - first:
+      213: 6192905352738666082
+    second: "\u9E23\u4EBAskill1_42"
+  - first:
+      213: -6868840584398228932
+    second: "\u9E23\u4EBAskill1_43"
+  - first:
+      213: 5212377270234207076
+    second: "\u9E23\u4EBAskill1_44"
+  - first:
+      213: 5630209102071445579
+    second: "\u9E23\u4EBAskill1_45"
+  - first:
+      213: -5949142371513508100
+    second: "\u9E23\u4EBAskill1_46"
+  - first:
+      213: -4214394832491665215
+    second: "\u9E23\u4EBAskill1_47"
+  - first:
+      213: -7461924348394139301
+    second: "\u9E23\u4EBAskill1_48"
+  - first:
+      213: 3058064479673216738
+    second: "\u9E23\u4EBAskill1_49"
+  - first:
+      213: 4722243229770213274
+    second: "\u9E23\u4EBAskill1_50"
+  - first:
+      213: -5187237508151599010
+    second: "\u9E23\u4EBAskill1_51"
+  - first:
+      213: 319487496329091573
+    second: "\u9E23\u4EBAskill1_52"
+  - first:
+      213: 849042580344645770
+    second: "\u9E23\u4EBAskill1_53"
+  - first:
+      213: -9000456653918725833
+    second: "\u9E23\u4EBAskill1_54"
+  - first:
+      213: 3540968586666190931
+    second: "\u9E23\u4EBAskill1_55"
+  - first:
+      213: -5066016378442789764
+    second: "\u9E23\u4EBAskill1_56"
+  - first:
+      213: 3718449368067855274
+    second: "\u9E23\u4EBAskill1_57"
+  - first:
+      213: 144995311520677519
+    second: "\u9E23\u4EBAskill1_58"
+  - first:
+      213: -4806597375900789025
+    second: "\u9E23\u4EBAskill1_59"
+  - first:
+      213: 1833097834909535707
+    second: "\u9E23\u4EBAskill1_60"
+  - first:
+      213: -3366972292958923544
+    second: "\u9E23\u4EBAskill1_61"
+  - first:
+      213: -5384963757614671842
+    second: "\u9E23\u4EBAskill1_62"
+  - first:
+      213: 4231822338821576867
+    second: "\u9E23\u4EBAskill1_63"
+  - first:
+      213: 8119937002125319602
+    second: "\u9E23\u4EBAskill1_64"
+  - first:
+      213: -509311023063670780
+    second: "\u9E23\u4EBAskill1_65"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_0"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2918
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6bb89ff9f609f10800000000000000
+      internalID: 2274440544699266728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_1"
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2917
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1cddec3f9750940800000000000000
+      internalID: 5261745827706946014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_2"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2725
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2819af8fab6bdb0f0800000000000000
+      internalID: -1099521819851189886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_3"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2725
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a40e046978d7190800000000000000
+      internalID: -7963059486717883784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_4"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2533
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b432384ac5286ce90800000000000000
+      internalID: -7005768835919568053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_5"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2534
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874d04f41c958a350800000000000000
+      internalID: 6028166788028617848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_6"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2342
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e08b201f776e4b0800000000000000
+      internalID: -5411506025222631797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_7"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2341
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eebaaecb489a5e00800000000000000
+      internalID: 1034306515792215778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_8"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2150
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874e9dee6d828a20800000000000000
+      internalID: 3063166204137850759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_9"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2150
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988fb91d812fa6c0800000000000000
+      internalID: -4130045443369367407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_10"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1958
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684cb42e625f0c060800000000000000
+      internalID: 6971841770523706502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_11"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1958
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b981f8a00f8a50800000000000000
+      internalID: 6525435110689976935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_12"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1764
+        width: 149
+        height: 119
+      alignment: 9
+      pivot: {x: 0.3859302, y: 0.20136164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd588bdbf7036ad0800000000000000
+      internalID: -2710313772445573642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_14"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1760
+        width: 160
+        height: 132
+      alignment: 9
+      pivot: {x: 0.32516366, y: 0.22240193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be3a3d5d0136260800000000000000
+      internalID: 7089528748976106350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_16"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1568
+        width: 181
+        height: 138
+      alignment: 9
+      pivot: {x: 0.24390133, y: 0.24247941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0204cedf8b21ca00800000000000000
+      internalID: 774948507802141194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_17"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1568
+        width: 207
+        height: 138
+      alignment: 9
+      pivot: {x: 0.26860392, y: 0.2200857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f150971ebdc9f0800000000000000
+      internalID: -446491779624994688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_18"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1376
+        width: 207
+        height: 138
+      alignment: 9
+      pivot: {x: 0.24761167, y: 0.2295833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f008997cae79a3c30800000000000000
+      internalID: 4339948225551761423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_19"
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1376
+        width: 213
+        height: 134
+      alignment: 9
+      pivot: {x: 0.27224174, y: 0.2493605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a531131b8941470800000000000000
+      internalID: 8364478294733838950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_21"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1184
+        width: 195
+        height: 138
+      alignment: 9
+      pivot: {x: 0.29906029, y: 0.2431048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4766ae0c2d4c66150800000000000000
+      internalID: 5865591974155413108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_22"
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1184
+        width: 207
+        height: 149
+      alignment: 9
+      pivot: {x: 0.28366724, y: 0.23702532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d955721bee547ab0800000000000000
+      internalID: -5011276121636513325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_26"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 992
+        width: 192
+        height: 118
+      alignment: 9
+      pivot: {x: 0.32507482, y: 0.29443878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c5fa54f9318e70800000000000000
+      internalID: 9115630842435453871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_28"
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 994
+        width: 191
+        height: 115
+      alignment: 9
+      pivot: {x: 0.30462134, y: 0.28907523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7b5444d0d9df300800000000000000
+      internalID: 287558631527135204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_35"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 800
+        width: 193
+        height: 108
+      alignment: 9
+      pivot: {x: 0.277642, y: 0.309958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0572e293cd644e0800000000000000
+      internalID: -1997667246546661147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_36"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 800
+        width: 190
+        height: 134
+      alignment: 9
+      pivot: {x: 0.28395194, y: 0.2493605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff8add941bd08c00800000000000000
+      internalID: 900960807068274686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_38"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 607
+        width: 192
+        height: 151
+      alignment: 9
+      pivot: {x: 0.23761208, y: 0.24050842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be2e5502cf6ed30800000000000000
+      internalID: 4460529696767142672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_43"
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 607
+        width: 208
+        height: 147
+      alignment: 9
+      pivot: {x: 0.28470758, y: 0.24614026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32382491e9fca0a0800000000000000
+      internalID: -6868840584398228932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_57"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 417
+        width: 207
+        height: 142
+      alignment: 9
+      pivot: {x: 0.23859759, y: 0.23720132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3d5f2cff59a9330800000000000000
+      internalID: 3718449368067855274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_58"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 422
+        width: 194
+        height: 139
+      alignment: 9
+      pivot: {x: 0.22108129, y: 0.1912596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e7945b770230200800000000000000
+      internalID: 144995311520677519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_63"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 230
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d50afef37aba30800000000000000
+      internalID: 4231822338821576867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_64"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 38
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdda32aeafcfa070800000000000000
+      internalID: 8119937002125319602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u9E23\u4EBAskill1_65"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 38
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400691ea2509ee8f0800000000000000
+      internalID: -509311023063670780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
