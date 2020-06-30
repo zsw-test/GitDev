@@ -1159,6 +1159,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   continueTime: 0.1
+  clickNum: 0
+  hitCount: 0
 --- !u!114 &1794563032
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -88,5 +88,5 @@ public class player01Animation : MonoBehaviour
         animator.SetBool("Defence", false);
     }
 
-    
+   
 }
